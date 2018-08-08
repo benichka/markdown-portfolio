@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Look at me, using *emphasis* and stuff! Only to write **nonsense**.  
+This one is pretty badass: a ***emphasis'ed nonsense***.  
+:heart:
