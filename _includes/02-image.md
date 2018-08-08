@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Me and my old friend.](https://ihasabucket.com/images/walrus_bucket.jpg)
